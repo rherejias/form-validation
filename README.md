@@ -1,3 +1,7 @@
+### Documentation for Springload
+
+This project is created with React and Antd. I choose Antd since form validation is already included in their design and it is very easy to use as well. very convenient when you just want to showcase someone a sample design in a hurry.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +72,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `yarn build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
